@@ -1,0 +1,92 @@
+[33mcommit fac189c8610877a759ca9812210b546df9910dcf[m
+Author: Lucas Cavalcanti <lucasmrtuner@gmail.com>
+Date:   Mon Dec 6 17:03:33 2010 -0200
+
+    first commit
+
+[1mdiff --git a/caelum b/caelum[m
+[1mnew file mode 100644[m
+[1mindex 0000000..ead67db[m
+[1m--- /dev/null[m
+[1m+++ b/caelum[m
+[36m@@ -0,0 +1,4 @@[m
+[32m+[m[32mCaelum - Ensino e Inovação[m
+[32m+[m
+[32m+[m[32mhttp://www.caelum.com.br[m
+[32m+[m
+[1mdiff --git a/fj91 b/fj91[m
+[1mnew file mode 100644[m
+[1mindex 0000000..f01f979[m
+[1m--- /dev/null[m
+[1m+++ b/fj91[m
+[36m@@ -0,0 +1,19 @@[m
+[32m+[m[32mFJ-91 | Arquitetura e Design de Projetos Java[m
+[32m+[m
+[32m+[m[32mConfuso com tantos design patterns, frameworks e boas práticas? Criar um projeto em[m[41m [m
+[32m+[m[32mJava é um grande desafio: são muitas opções de tecnologia e muitos modos diferentes[m[41m [m
+[32m+[m[32mde fazer as diversas camadas se comunicarem. O objetivo do curso é expor o aluno a[m[41m [m
+[32m+[m[32muma grande quantidade dessas opções, desde a modelagem e design das classes, até a[m[41m [m
+[32m+[m[32mescolha das tecnologias mais adequadas para formar uma arquitetura robusta.[m
+[32m+[m
+[32m+[m[32mConceitos de orientação a objetos são rediscutidos. Design Patterns são apresentados[m[41m [m
+[32m+[m[32mna prática em uma aplicação real e com exemplos no Java SE e no Java EE. As diferentes[m[41m [m
+[32m+[m[32mtecnologias e frameworks são abordadas com exemplos práticos, comparações e muita[m[41m [m
+[32m+[m[32manálise de pontos positivos e negativos de cada uma. Há tópicos como SOA, Web Services,[m[41m [m
+[32m+[m[32mREST, mensageria, EJB, Web, DDD, mapeamento objeto relacional, Hibernate, escalabilidade,[m[41m [m
+[32m+[m[32mperformance, segurança, arquitetura em camadas, metodologias ágeis e muitos outros.[m
+[32m+[m
+[32m+[m[32mÉ um curso que busca formar o Arquiteto Java que o mercado pede e precisa nos dias de hoje.[m[41m [m
+[32m+[m[32mCom discussões aprofundadas, o FJ-91 o ajudará a tomar decisões importantes em seus projetos.[m[41m [m
+[32m+[m[32mDurante o curso, muitos tópicos da certificação de arquiteto Java (SCEA) serão tratados,[m[41m [m
+[32m+[m[32mformando uma boa base para todas as suas três fases.[m
+[1mdiff --git a/pm83 b/pm83[m
+[1mnew file mode 100644[m
+[1mindex 0000000..25bbef6[m
+[1m--- /dev/null[m
+[1m+++ b/pm83[m
+[36m@@ -0,0 +1,17 @@[m
+[32m+[m[32mPM-83 | Gerenciamento ágil de projetos de Software com Scrum[m
+[32m+[m
+[32m+[m[32mO gerenciamento ágil de projetos é uma tendência mundial que cresce ano a ano desde o[m[41m [m
+[32m+[m[32mlançamento do Manifesto Ágil. Dentre as metodologias existentes, o Scrum é uma das com[m[41m [m
+[32m+[m[32mmaior destaque.[m
+[32m+[m
+[32m+[m[32mO PM-83 é o curso da Caelum de gerenciamento de projetos ágeis com Scrum. É baseado nas[m[41m [m
+[32m+[m[32mexperiências da Caelum com anos de desenvolvimento ágil e com cursos de Scrum. É bastante[m[41m [m
+[32m+[m[32mvoltado à realidade do mercado brasileiro que, cada vez mais, tem descoberto as vantagens[m[41m [m
+[32m+[m[32mdo Scrum nos seus projetos.[m
+[32m+[m
+[32m+[m[32mDurante as 20h do treinamento, apresentaremos o Scrum em detalhes. São discutidos os papéis[m[41m [m
+[32m+[m[32mdo ScrumMaster, do Product Owner e do time de desenvolvimento; abordamos com detalhes as reuniões e[m[41m [m
+[32m+[m[32martefatos do Scrum, como o product backlog, os sprints, o planning meeting e outros. Além disso,[m[41m [m
+[32m+[m[32mutilizamos os conceituados Lean Lego Game e Scrum Lego Game em exercícios práticos.[m
+[32m+[m
+[32m+[m[32mÉ um curso inovador em sua metodologia e carregado de experiências da Caelum no mercado.[m
+[1mdiff --git a/pm87 b/pm87[m
+[1mnew file mode 100644[m
+[1mindex 0000000..8f538f7[m
+[1m--- /dev/null[m
+[1m+++ b/pm87[m
+[36m@@ -0,0 +1,22 @@[m
+[32m+[m[32mBem vindo ao curso PM-87.[m
+[32m+[m
+[32m+[m[32mPráticas ágeis de desenvolvimento de software.[m
+[32m+[m
+[32m+[m[32mO mercado reclama cada vez mais de dificuldades típicas enfrentadas por uma equipe de desenvolvimento[m[41m [m
+[32m+[m[32mde software. Os métodos ágeis tentam, então, resolver diversos desses problemas através de práticas que[m[41m [m
+[32m+[m[32mfavorecem o produto final e os problemas que o cliente deseja resolver.[m
+[32m+[m
+[32m+[m[32mDos próprios princípios ágeis: "Atenção contínua a excelência técnica e bom design engrandecem a agilidade."[m
+[32m+[m
+[32m+[m[32mNeste curso prático de 20h voltado para desenvolvedores ágeis, apresentaremos práticas de desenvolvimento[m[41m [m
+[32m+[m[32mde software comprovadamente eficazes, sempre sob a ótica dos métodos ágeis. É um curso baseado na experiência[m[41m [m
+[32m+[m[32mreal dos instrutores da Caelum com XP e Práticas Ágeis desde 2005 em equipes locais e remotas, em projetos[m[41m [m
+[32m+[m[32minternos, em clientes, consultorias e projetos open source.[m
+[32m+[m
+[32m+[m[32mAs práticas reconhecidas do XP e algumas outras são abordadas durante esse curso, fazendo com que o[m[41m [m
+[32m+[m[32mdesenvolvedor trabalhe o tempo todo em equipe para vivenciar os problemas do dia a dia de um projeto.[m[41m [m
+[32m+[m[32mEntre os assuntos, abordamos testes automatizados, design patterns, refatoração, processos de build,[m[41m [m
+[32m+[m[32mintegração contínua, deploy contínuo, programação pareada e o uso de controle de versão. A valorização[m[41m [m
+[32m+[m[32mdo código e do produto final a ser entregue ao cliente será frisada durante todo o curso, bem como as[m[41m [m
+[32m+[m[32mvantagens da entrega de um produto funcional ao fim de cada iteração.[m
+[32m+[m
